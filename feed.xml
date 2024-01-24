@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Digital Shakespeare</title>
+    <link href="https://jeneevu.github.io/publiisite/feed.xml" rel="self" />
+    <link href="https://jeneevu.github.io/publiisite" />
+    <updated>2024-01-24T14:31:03-08:00</updated>
+    <author>
+        <name>JV</name>
+    </author>
+    <id>https://jeneevu.github.io/publiisite</id>
+
+    <entry>
+        <title>Meet the Team</title>
+        <author>
+            <name>JV</name>
+        </author>
+        <link href="https://jeneevu.github.io/publiisite/meet-the-team.html"/>
+        <id>https://jeneevu.github.io/publiisite/meet-the-team.html</id>
+
+        <updated>2024-01-24T14:31:03-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Jane Bruin Principal Investigator ------ Joe Bruin Graduate Student Researcher
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Jane Bruin</h2>
+<h3>Principal Investigator</h3>
+<figure class="post__image"><img loading="lazy"  src="https://jeneevu.github.io/publiisite/media/posts/2/Jane-Bruin-copy.jpg" alt="" sizes="100vw" srcset="https://jeneevu.github.io/publiisite/media/posts/2/responsive/Jane-Bruin-copy-xs.jpg 300w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Jane-Bruin-copy-sm.jpg 480w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Jane-Bruin-copy-md.jpg 768w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Jane-Bruin-copy-lg.jpg 1024w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Jane-Bruin-copy-xl.jpg 1360w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Jane-Bruin-copy-2xl.jpg 1600w"></figure>
+<p>------</p>
+<h2>Joe Bruin</h2>
+<h3>Graduate Student Researcher</h3>
+<figure class="post__image"><img loading="lazy"  src="https://jeneevu.github.io/publiisite/media/posts/2/Joe-Bruin-cropped-640x640.jpeg" alt="" width="250" height="250" sizes="100vw" srcset="https://jeneevu.github.io/publiisite/media/posts/2/responsive/Joe-Bruin-cropped-640x640-xs.jpeg 300w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Joe-Bruin-cropped-640x640-sm.jpeg 480w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Joe-Bruin-cropped-640x640-md.jpeg 768w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Joe-Bruin-cropped-640x640-lg.jpeg 1024w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Joe-Bruin-cropped-640x640-xl.jpeg 1360w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Joe-Bruin-cropped-640x640-2xl.jpeg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

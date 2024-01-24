@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jeneevu.github.io/publiisite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jeneevu.github.io/publiisite/</loc>
+</url>
+<url>
+<loc>https://jeneevu.github.io/publiisite/digital-shakespeare.html</loc>
+<lastmod>2024-01-24T14:37:14-08:00</lastmod>
+</url>
+<url>
+<loc>https://jeneevu.github.io/publiisite/meet-the-team.html</loc>
+<lastmod>2024-01-24T14:31:03-08:00</lastmod>
+<image:image>
+<image:loc>https://jeneevu.github.io/publiisite/media/posts/2/Jane-Bruin-copy.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jeneevu.github.io/publiisite/media/posts/2/Joe-Bruin-cropped-640x640.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

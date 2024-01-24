@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Digital Shakespeare",
+    "description": "",
+    "home_page_url": "https://jeneevu.github.io/publiisite",
+    "feed_url": "https://jeneevu.github.io/publiisite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "JV"
+    },
+    "items": [
+        {
+            "id": "https://jeneevu.github.io/publiisite/meet-the-team.html",
+            "url": "https://jeneevu.github.io/publiisite/meet-the-team.html",
+            "title": "Meet the Team",
+            "summary": "Jane Bruin Principal Investigator ------ Joe Bruin Graduate Student Researcher",
+            "content_html": "<h2>Jane Bruin</h2>\n<h3>Principal Investigator</h3>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jeneevu.github.io/publiisite/media/posts/2/Jane-Bruin-copy.jpg\" alt=\"\" sizes=\"100vw\" srcset=\"https://jeneevu.github.io/publiisite/media/posts/2/responsive/Jane-Bruin-copy-xs.jpg 300w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Jane-Bruin-copy-sm.jpg 480w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Jane-Bruin-copy-md.jpg 768w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Jane-Bruin-copy-lg.jpg 1024w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Jane-Bruin-copy-xl.jpg 1360w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Jane-Bruin-copy-2xl.jpg 1600w\"></figure>\n<p>------</p>\n<h2>Joe Bruin</h2>\n<h3>Graduate Student Researcher</h3>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jeneevu.github.io/publiisite/media/posts/2/Joe-Bruin-cropped-640x640.jpeg\" alt=\"\" width=\"250\" height=\"250\" sizes=\"100vw\" srcset=\"https://jeneevu.github.io/publiisite/media/posts/2/responsive/Joe-Bruin-cropped-640x640-xs.jpeg 300w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Joe-Bruin-cropped-640x640-sm.jpeg 480w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Joe-Bruin-cropped-640x640-md.jpeg 768w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Joe-Bruin-cropped-640x640-lg.jpeg 1024w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Joe-Bruin-cropped-640x640-xl.jpeg 1360w ,https://jeneevu.github.io/publiisite/media/posts/2/responsive/Joe-Bruin-cropped-640x640-2xl.jpeg 1600w\"></figure>",
+            "author": {
+                "name": "JV"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-24T14:31:03-08:00",
+            "date_modified": "2024-01-24T14:31:03-08:00"
+        }
+    ]
+}
